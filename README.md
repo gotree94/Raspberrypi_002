@@ -163,9 +163,13 @@
 
 ### 프로젝트
 
-   * 카메라 제어 (스테레오 카메라- 거리측정)
-   * 웹서버 구축
-
+<details>
+<summary><strong>카메라 제어 (스테레오 카메라- 거리측정)</strong></summary>
+</details>
+  
+<details>
+<summary><strong>웹서버 구축</strong></summary>
+</details>
 
 
 
