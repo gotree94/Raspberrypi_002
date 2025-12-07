@@ -1,5 +1,7 @@
 # 사물인터넷을 위한 리눅스 프로그래밍 with 라즈베리 파이
 
+<img width="312" height="413" alt="018" src="https://github.com/user-attachments/assets/a527fdf6-bb71-4d4a-93d2-4ac6219f5e79" />
+
 ## 목차
 
 ---
