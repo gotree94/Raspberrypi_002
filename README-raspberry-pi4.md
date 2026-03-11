@@ -44,7 +44,7 @@ Raspberry Pi 4 Model B는 2019년 6월 출시되었으며, 이전 모델 대비 
 | **카메라/디스플레이** | 2-lane MIPI CSI / 2-lane MIPI DSI |
 | **PoE** | 지원 (별도 PoE HAT 필요) |
 
-<img width="1086" height="698" alt="rsap4_001" src="https://github.com/user-attachments/assets/49f0fc9f-55cc-4662-a7a0-10bbe1fc93ac" />
+<img width="628" height="393" alt="rsap4_002" src="https://github.com/user-attachments/assets/fb3dd840-1625-4a7a-a578-b5a265e61108" />
 
 ---
 
@@ -67,7 +67,7 @@ Raspberry Pi 4 Model B는 2019년 6월 출시되었으며, 이전 모델 대비 
 
 Raspberry Pi 4는 **40핀 GPIO 헤더**를 제공합니다.
 
-<img width="628" height="393" alt="rsap4_002" src="https://github.com/user-attachments/assets/fb3dd840-1625-4a7a-a578-b5a265e61108" />
+<img width="656" height="492" alt="rsap4_003" src="https://github.com/user-attachments/assets/145e8f95-e801-4e1f-83ee-8eb9ca0d4836" />
 
 | 핀 종류 | 수량 |
 |---------|------|
@@ -104,7 +104,7 @@ GPIO26(37)(38) GPIO20
 
 ### 전원 핀 (Power Pins)
 
-<img width="656" height="492" alt="rsap4_003" src="https://github.com/user-attachments/assets/145e8f95-e801-4e1f-83ee-8eb9ca0d4836" />
+<img width="389" height="307" alt="rsap4_004" src="https://github.com/user-attachments/assets/04184073-be45-47c3-9712-039ec0a4e3ef" />
 
 | 핀 | 전압 | 설명 |
 |----|------|------|
@@ -124,7 +124,7 @@ GPIO26(37)(38) GPIO20
 <img width="232" height="563" alt="rsap4_007" src="https://github.com/user-attachments/assets/a7ac738c-7491-4c9e-9200-092f1cc3d812" />
 <img width="446" height="576" alt="rsap4_006" src="https://github.com/user-attachments/assets/350f0d93-c9fb-44ed-ba6f-b444ac46218f" />
 <img width="465" height="370" alt="rsap4_005" src="https://github.com/user-attachments/assets/80206059-7f5c-46ea-b359-0e582270d641" />
-<img width="389" height="307" alt="rsap4_004" src="https://github.com/user-attachments/assets/04184073-be45-47c3-9712-039ec0a4e3ef" />
+
 
 GPIO 핀은 **Input** 또는 **Output**으로 런타임에 설정 가능합니다.
 
