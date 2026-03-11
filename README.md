@@ -5,6 +5,7 @@
 
 https://github.com/valentis/LinuxProgrammingWithRaspberryPi
 
+<img width="1001" height="577" alt="raspberrypi4" src="https://github.com/user-attachments/assets/8ec3cd99-2d64-4b07-87df-70868c89a2d4" />
 
 ## 목차
 
