@@ -69,7 +69,10 @@ Raspberry Pi 4 Model B는 2019년 6월 출시되었으며, 이전 모델 대비 
 
 Raspberry Pi 4는 **40핀 GPIO 헤더**를 제공합니다.
 
-
+<img width="465" height="370" alt="rsap4_005" src="https://github.com/user-attachments/assets/80206059-7f5c-46ea-b359-0e582270d641" />
+<br>
+<img width="446" height="576" alt="rsap4_006" src="https://github.com/user-attachments/assets/350f0d93-c9fb-44ed-ba6f-b444ac46218f" />
+<br>
 
 | 핀 종류 | 수량 |
 |---------|------|
@@ -102,11 +105,13 @@ GPIO26(37)(38) GPIO20
   GND(39)(40) GPIO21
 ```
 
+
+
 ---
 
 ### 전원 핀 (Power Pins)
 
-<img width="475" height="362" alt="rsap4_010" src="https://github.com/user-attachments/assets/2dcd872c-53d8-4b11-9413-5d7abc9a2b1b" />
+<img width="232" height="563" alt="rsap4_007" src="https://github.com/user-attachments/assets/a7ac738c-7491-4c9e-9200-092f1cc3d812" />
 
 | 핀 | 전압 | 설명 |
 |----|------|------|
@@ -119,14 +124,6 @@ GPIO26(37)(38) GPIO20
 ---
 
 ### 입출력 핀 (I/O Pins)
-
-
-<img width="471" height="657" alt="rsap4_009" src="https://github.com/user-attachments/assets/45acc9c3-9330-4dba-8e30-9a74e05677a7" />
-<img width="497" height="650" alt="rsap4_008" src="https://github.com/user-attachments/assets/954c14f9-0674-4a8c-aac0-f16f4608d61e" />
-<img width="232" height="563" alt="rsap4_007" src="https://github.com/user-attachments/assets/a7ac738c-7491-4c9e-9200-092f1cc3d812" />
-<img width="446" height="576" alt="rsap4_006" src="https://github.com/user-attachments/assets/350f0d93-c9fb-44ed-ba6f-b444ac46218f" />
-<img width="465" height="370" alt="rsap4_005" src="https://github.com/user-attachments/assets/80206059-7f5c-46ea-b359-0e582270d641" />
-
 
 GPIO 핀은 **Input** 또는 **Output**으로 런타임에 설정 가능합니다.
 
@@ -168,6 +165,9 @@ PWM(Pulse Width Modulation): 디지털 신호에 아날로그 값을 변조하�
 
 SPI(Serial Peripheral Interface): 마스터-슬레이브 방식의 고속 직렬 통신 프로토콜
 
+<img width="497" height="650" alt="rsap4_008" src="https://github.com/user-attachments/assets/954c14f9-0674-4a8c-aac0-f16f4608d61e" />
+
+
 #### SPI0
 
 | 신호 | GPIO | 설명 |
@@ -205,6 +205,9 @@ SPI(Serial Peripheral Interface): 마스터-슬레이브 방식의 고속 직렬
 
 I2C(Inter-Integrated Circuit): 저속 2선식 직렬 통신 프로토콜 (마스터-슬레이브)
 
+<img width="471" height="657" alt="rsap4_009" src="https://github.com/user-attachments/assets/45acc9c3-9330-4dba-8e30-9a74e05677a7" />
+
+
 | 신호 | GPIO | 설명 |
 |------|------|------|
 | SDA (Data) | GPIO2 | 직렬 데이터 |
@@ -239,6 +242,7 @@ UART(Universal Asynchronous Receiver/Transmitter): 비동기 직렬 통신 프�
 │                                      │
 └──────────────────────────────────────┘
 ```
+<img width="475" height="362" alt="rsap4_010" src="https://github.com/user-attachments/assets/2dcd872c-53d8-4b11-9413-5d7abc9a2b1b" />
 
 ---
 
