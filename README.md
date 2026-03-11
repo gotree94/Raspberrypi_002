@@ -2,6 +2,10 @@
 
 <img width="312" height="413" alt="018" src="https://github.com/user-attachments/assets/a527fdf6-bb71-4d4a-93d2-4ac6219f5e79" />
 
+
+https://github.com/valentis/LinuxProgrammingWithRaspberryPi
+
+
 ## 목차
 
 ---
