@@ -30,6 +30,8 @@
 
 Raspberry Pi 4 Model B는 2019년 6월 출시되었으며, 이전 모델 대비 **전력 소비 20% 절감**, **성능 90% 향상**을 실현한 싱글보드 컴퓨터입니다.
 
+<img width="646" height="465" alt="ra" src="https://github.com/user-attachments/assets/30de677e-00f6-40b1-bf80-e67cdc6a7694" />
+
 | 구성 요소 | 설명 |
 |-----------|------|
 | **CPU** | Broadcom BCM2711 — Quad-core ARM Cortex-A72 (ARMv8) 64-bit @ 1.5GHz |
@@ -105,7 +107,7 @@ GPIO26(37)(38) GPIO20
   GND(39)(40) GPIO21
 ```
 
-
+<img width="1789" height="949" alt="gpio" src="https://github.com/user-attachments/assets/3d02847d-9b59-4f18-b6c7-e6ab531f4175" />
 
 ---
 
